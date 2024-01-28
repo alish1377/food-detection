@@ -6,4 +6,4 @@ Firstly, the dataset is downloaded using the Roboflow API key. then, the pre-tra
 In the last part, you could use the OpenAi API key to access the ChatGPT, and feel free to ask anything you wish. I asked GPT to describe the recipe of the food (Marinated_seasoning_crab). (My API key is removed from the client object to preserve my privacy. So, you could use your OpenAi API key to use ChatGPT)
 
 ### Test result
-![Marinated_seasoning_crab detection](
+![Marinated_seasoning_crab detection](https://github.com/alish1377/food-detection/blob/main/Marinated_seasoning_crab.png)
